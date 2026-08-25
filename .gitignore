@@ -1,0 +1,21 @@
+# 数据与大型二进制文件（不入库）
+data/raw/*.parquet
+data/raw/*.csv
+data/processed/*.parquet
+data/processed/*.csv
+data/*.db
+data/*.sqlite
+*.parquet
+*.db
+*.sqlite3
+
+# 字节码与缓存
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# 中间产物
+*.tmp
+*.log
+# 注意：dashboard/figures/*.png 是核心交付物（README 截图 + 看板演示），必须入库，勿忽略

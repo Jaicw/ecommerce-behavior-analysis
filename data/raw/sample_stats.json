@@ -1,0 +1,21 @@
+{
+  "total_rows": 67501979,
+  "full_event_type_counts": {
+    "view": 63556110,
+    "purchase": 916939,
+    "cart": 3028930
+  },
+  "full_distinct_users": 3696117,
+  "sampled_rows": 3335944,
+  "sampled_row_fraction": 0.04942,
+  "sampled_event_type_counts": {
+    "view": 3140594,
+    "cart": 150061,
+    "purchase": 45289
+  },
+  "sampled_distinct_users": 183592,
+  "sampled_user_fraction": 0.049672,
+  "sampled_distinct_products": 116684,
+  "sample_time_min": "2019-11-01 00:00:00 UTC",
+  "sample_time_max": "2019-11-30 23:59:58 UTC"
+}
