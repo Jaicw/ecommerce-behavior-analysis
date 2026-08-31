@@ -1,3 +1,5 @@
+#数据来源
+Kaggle eCommerce behavior data from multi category store（2.85 亿事件 / 7 个月）
 # 电商用户行为分析 · eCommerce Behavior Analysis
 
 > **一句话定位**：对某多品类电商 2019-11 单月数千万行行为日志做「按用户抽样 → OSM 指标体系 → 漏斗/留存/RFM → 大促归因」的完整数据分析，产出 20+ 指标字典、SQL 双轨互验、五模块看板与 8 页分析报告，定位 **electronics 品类 + 购买用户数** 为 GMV 增长主因。
